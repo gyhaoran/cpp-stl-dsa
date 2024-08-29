@@ -1,5 +1,5 @@
-# Data Structures and Algorithms with the C++ STL(Lite)
-# C++ STL中的数据结构和算法(精简版)
+# Data Structures and Algorithms with the C++ STL
+# C++ STL中的数据结构和算法
 ----
 A guide for modern C++ practitioners
 
@@ -20,19 +20,19 @@ A guide for modern C++ practitioners
 
 
 ## 伊始
-本书是对`Data Structures and Algorithms with the C++ STL`的精华总结，删除一些无用的废话（个人主观，有能力的建议读英文原文）
+本书是对`Data Structures and Algorithms with the C++ STL`的**精华总结**，删除一些无用的废话（个人主观，有能力的建议读英文原文）
 
 - 针对的读者
 1. 有一定基础的**中级C++程序员**
 2. 熟悉C++11/14及以上版本
-3. 熟悉STL基本STL容器和算法使用，至少能看懂
+3. 熟悉基本的STL容器和算法
 
 - 不适合的读者
 1. C++入门读者
 2. 不会C++11及以上版本
 3. 本总结不会
 
-本书不会讲C++基础的语法，请读者朋友们自行学习。
+本书不会讲C++基础的语法，请读者朋友们自行学习哈~
 
 ## 本书涵盖的内容
 
@@ -58,7 +58,6 @@ A guide for modern C++ practitioners
 - 第 15 章：STL ranges
 
 ### 第 4 部分 创建 STL 兼容类型和算法
-• Chapter 16: Creating STL-Types Containers• 
 - 第 16 章：创建 STL 类型容器
 - 第 17 章：创建 STL 兼容算法
 - 第 18 章：类型萃取(Traits)和策略(Policies)
@@ -69,10 +68,9 @@ A guide for modern C++ practitioners
 - 第 21 章：概念和协程（Concepts and Coroutines）
 - 第 22 章：并行算法
 
-## 大纲
+## 大纲索引
 [目录](./Summary.md)
 
 
 ## 写在最后
-本书仅作为个人学习、爱好，不涉及任何商业活动
-
+*本书仅作为个人学习、爱好，不涉及任何商业活动*
