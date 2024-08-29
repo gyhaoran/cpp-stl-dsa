@@ -1,2 +1,51 @@
-# cpp-stl-dsa
-Data Structures and Algorithms with the C++ STL(A guide for modern C++ practitioners)
+# Data Structures and Algorithms with the C++ STL(Lite)
+# C++ STL中的数据结构和算法(精简版)
+----
+A guide for modern C++ practitioners
+现代 C++ 实践者的指南
+
+[正在更新中...]
+
+> 翻译是译者用自己的思想，换一种语言，对原作者想法的重新阐释。鉴于我的学识所限，误解和错译在所难免。如果你能买到本书的原版，且有能力阅读英文，请直接去读原文。因为与之相较，我的译文可能根本不值得一读。
+— 云风，程序员修炼之道第2版译者
+
+## 伊始
+本书是对`Data Structures and Algorithms with the C++ STL`的精华总结，删除一些无用的废话（个人主观，有能力的建议读英文原文）
+
+- 针对的读者
+1. 有一定基础的**中级C++程序员**
+2. 熟悉C++11/14及以上版本
+3. 熟悉STL基本STL容器和算法使用，至少能看懂
+
+- 不适合的读者
+1. C++入门读者
+2. 不会C++11及以上版本
+3. 本总结不会
+
+本书不会讲C++基础的语法，请读者朋友们自行学习。
+
+## 本书涵盖的内容
+
+### 第 1 部分 掌握 std::vector
+- 第 1 章：std::vector 的基础知识
+- 第 2 章：std::vector 迭代器
+- 第 3 章：std::vector 内存和分配器
+- 第 4 章：std::vector 算法
+- 第 5 章：std::vector 辩护
+
+### 第 2 部分 理解 STL 数据结构
+
+### 第 3 部分 掌握 STL 算法
+
+### 第 4 部分 创建 STL 兼容类型和算法
+
+### 第 5 部分 STL数据结构和算法：内部机制（Under the Hood）
+
+
+## 大纲
+[目录](./Summary.md)
+
+
+## 写在最后
+本书仅作为个人学习、爱好，不涉及任何商业活动
+
