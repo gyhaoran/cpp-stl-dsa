@@ -4,8 +4,8 @@
 
 * [前言](docs/preface/preface-cn.md)
 - [第1部分 掌握 std::vector](docs/part-1/part-1-cn.md)
-    - [第1章 std::vector基础知识](docs/part-1/ch01-ch.md)
-    - [第2章 掌握std::vector迭代器](docs/part-1/)
+    - [第1章 std::vector基础知识](docs/part-1/ch01-cn.md)
+    - [第2章 掌握std::vector迭代器](docs/part-1/ch02-cn.md)
     - [第3章 掌握std::vector内存和分配器](docs/part-1/)
     - [第4章 掌握std::vector算法](docs/part-1/)
     - [第5章 为std::vector辩护](docs/part-1/)
